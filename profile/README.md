@@ -2,7 +2,7 @@
 
 Church AV control software built for operators, not accountants.
 
-**Production AI/O** is a free, open-source macOS app for controlling PTZ cameras, ATEM video switchers, and audio from a single workspace. No subscriptions. No dongles. No per-seat licensing.
+**Production AIO** is a free, open-source macOS app for controlling PTZ cameras, ATEM video switchers, and audio from a single workspace. No subscriptions. No dongles. No per-seat licensing.
 
 Current stable features include PTZ camera control via VISCA-over-IP (joystick, presets, zoom), ATEM program/preview switching, audio mixer monitoring, multi-site project management, and demo mode so you can test everything without hardware connected.
 
