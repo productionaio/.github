@@ -1,4 +1,4 @@
-# Production AI/O
+# Production AIO
 
 Church AV control software built for operators, not accountants.
 
